@@ -1,0 +1,24 @@
+body {
+    font-size: medium;
+    font-style: italic;
+    text-align: right;
+    background-color: black;
+    
+}
+
+h1 {
+    color: aqua;
+    text-align: justify;
+}
+
+h2{
+    color: red;
+    text-align: left;
+    font-style: italic;
+}
+
+p{
+    color: greenyellow;
+    text-align: center;
+}
+
